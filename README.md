@@ -1,5 +1,15 @@
-## Nii Rakoto
 # Bienvenue sur mon profil GitHub
+
+Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Native.
+
+![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
+
+## Projets
+
+- [TreeTracking](https://github.com/NiiRakoto/TreeTracking) : Suivi et gestion des arbres.
+- [Rapport-SRB-HM](https://github.com/NiiRakoto/Rapport-SRB-HM) : Rapport de gestion de SRB et HM.
+
+![NiiRakoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiiRakoto&show_icons=true&theme=radical)
 
 ![Funny cat gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
