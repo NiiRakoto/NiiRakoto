@@ -1,7 +1,7 @@
 ## Nii Rakoto
-## Bienvenue sur mon GitHub!
+# Bienvenue sur mon profil GitHub
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Animation" src="https://codepen.io/Nii-Rakoto/pen/oNrXxZJ" frameborder="no" allowtransparency="true" allowfullscreen="true"></iframe>
+![Funny cat gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <!--
 **NiiRakoto/NiiRakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
