@@ -19,6 +19,10 @@ Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Na
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089024028483&mibextid=LQQJ4d)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/261342592963)
 
+
+### 🌈 Animations interactives
+
+- [Voir mon animation sur CodePen](https://codepen.io/votre_username/pen/votre_pen_id)
 <!--
 **NiiRakoto/NiiRakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
