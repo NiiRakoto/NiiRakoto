@@ -13,6 +13,7 @@ Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Na
 
 ![Coding animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
+![Coding animation](https://loading.io/asset/748111)
 ## 🌐 Me suivre sur
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nii-rakoto/)
