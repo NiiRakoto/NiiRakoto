@@ -3,7 +3,6 @@
 Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Native.
 
 ![Coding GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
-![Developer at work](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
 
 ## 🚀 Projets
 
@@ -18,7 +17,7 @@ Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Na
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nii-rakoto/)
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089024028483&mibextid=LQQJ4d)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/NiiRakoto)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/0342592963)
 
 <!--
 **NiiRakoto/NiiRakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
