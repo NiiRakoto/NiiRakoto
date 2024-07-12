@@ -11,7 +11,6 @@ Bienvenue sur mon profil GitHub. Je suis un développeur passionné par React Na
 
 ![NiiRakoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiiRakoto&show_icons=true&theme=radical)
 
-![Funny cat gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <!--
 **NiiRakoto/NiiRakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
